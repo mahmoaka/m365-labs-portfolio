@@ -18,7 +18,8 @@ Enable MFA and Condtional Access policies for test users in Microsoft 365.
 5. Configured Conditional Access Policy to block sign-in from no-home IPs.
 
 ## Screenshots
-- `screenshots/01-mfa-setup.png`
+- ![MFA Setup Step 1](screenshots/01-mfa-setup.png)
+- ![MFA Setup Step 2](screenshots/01-mfa-setup2.png)
 - `screenshots/02-conditional-access-policy.png`
 
 ## Outcome / Lessons Learned
