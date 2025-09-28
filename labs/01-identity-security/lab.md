@@ -12,8 +12,10 @@ Enable MFA and Condtional Access policies for test users in Microsoft 365.
 ## Steps Performed
 1. Created test users in Microsoft 365 Admin Center.
 2. Assigned Business Premium Licenses. 
-3. Enabled MFA for users. 
-4. Configured Conditional Access Policy to block sign-in from no-home IPs.
+3. Enabled MFA for users and attempted MFA registration, but intial login failed due to incomplete setup.
+4. Re-enforced MFA registration via Microsoft 365 Portal:
+    - Admin → Users → Active Users → Select User → Authentication Method → Require re-registertration
+5. Configured Conditional Access Policy to block sign-in from no-home IPs.
 
 ## Screenshots
 - `screenshots/01-mfa-setup.png`
