@@ -1,4 +1,4 @@
-# M365 Labs Portfolio - Akash Mahmood
+# M365 Labs Portfolio
 
 This is my hands-on Microsoft 365 Lab portfolio using Microsoft 365 Business Premium license.
 It contains step-by-step documentation, screenshots, and outcomes of practical labs.
@@ -9,3 +9,4 @@ It contains step-by-step documentation, screenshots, and outcomes of practical l
 - [Lab 03 — Data Protection](labs/03-data-protection/lab.md)  
 - [Lab 04 — SharePoint + Teams](labs/04-sharepoint-teams/lab.md)  
 - [Lab 05 — Power Automate](labs/05-power-automate/lab.md)
+
