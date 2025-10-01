@@ -15,7 +15,7 @@
         - Use the WindowsAutopilot script provided by Microsoft and save the output as csv file. 
 2. Import Device into Autopilot:
     - Go to Microsoft Intune admin Center: https://intune.microsoft.com → Devices → Enrollment → Import the CSV file that gathered the H/W hash. I used a VM to gather the hash. But it will work with other physical device as well. 
-    ![Device Import](/scrennshots/importeddevice.png)
+    ![Device Import](https://github.com/mahmoaka/m365-labs-portfolio/blob/main/labs/02-intune-device-mgmt/scrennshots/importeddevice.png?raw=true)
 3. Create/Assign Autopilot Deployment Profile:
     - Go to Windows Enrollment → Deployment Profiles
     - Click + Create profile.
@@ -29,8 +29,8 @@
     - Antivirus(Require)
     - Microsoft Defender Antimalware(Require)
     - On Assignments I included All devices 
-    ![Compliance Policy](/scrennshots/devicecompliance.png)
-    ![Compliance Policy 2](/scrennshots/deviceencryption.png)
+    ![Compliance Policy](https://github.com/mahmoaka/m365-labs-portfolio/blob/main/labs/02-intune-device-mgmt/scrennshots/devicecompliance.png?raw=true)
+    ![Compliance Policy 2](https://github.com/mahmoaka/m365-labs-portfolio/blob/main/labs/02-intune-device-mgmt/scrennshots/deviceencryption.png?raw=true)
 
 # Test Autopilot Deployment
 - Reset the VM
