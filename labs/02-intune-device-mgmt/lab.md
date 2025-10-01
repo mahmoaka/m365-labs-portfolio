@@ -34,11 +34,11 @@
 
 # Test Autopilot Deployment
 - Reset the VM
-- ![VM Reset](/scrennshots/vmreset.png) 
+- ![VM Reset](https://github.com/mahmoaka/m365-labs-portfolio/blob/main/labs/02-intune-device-mgmt/scrennshots/vmreset.png?raw=true) 
 - Connect with Internet
 - Give user credential
-- ![User Creds](/scrennshots/giveusercredential.png)
+- ![User Creds](https://github.com/mahmoaka/m365-labs-portfolio/blob/main/labs/02-intune-device-mgmt/scrennshots/giveusercredential.png?raw=true)
 - Then wait until the setup is complete. 
 - Verify the Device is intuned from Entra side (Screenshot Reference.)
--![Device Status](/scrennshots/devicesuccessfullyintuned.png)
--![Device Status 02](/scrennshots/deviceintunedfromentraside.png)
+-![Device Status](https://github.com/mahmoaka/m365-labs-portfolio/blob/main/labs/02-intune-device-mgmt/scrennshots/devicesuccessfullyintuned.png?raw=true)
+-![Device Status 02](https://github.com/mahmoaka/m365-labs-portfolio/blob/main/labs/02-intune-device-mgmt/scrennshots/deviceintunedfromentraside.png?raw=true)
