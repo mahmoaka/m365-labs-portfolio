@@ -15,7 +15,7 @@
         - Use the WindowsAutopilot script provided by Microsoft and save the output as csv file. 
 2. Import Device into Autopilot:
     - Go to Microsoft Intune admin Center: https://intune.microsoft.com → Devices → Enrollment → Import the CSV file that gathered the H/W hash. I used a VM to gather the hash. But it will work with other physical device as well. 
-    ![Device Import](C:\Users\greywire\m365-labs-portfolio\labs\02-intune-device-mgmt\scrennshots)
+    ![Device Import](/scrennshots/importeddevice.png)
 3. Create/Assign Autopilot Deployment Profile:
     - Go to Windows Enrollment → Deployment Profiles
     - Click + Create profile.
@@ -42,6 +42,3 @@
 - Verify the Device is intuned from Entra side (Screenshot Reference.)
 -![Device Status](/scrennshots/devicesuccessfullyintuned.png)
 -![Device Status 02](/scrennshots/deviceintunedfromentraside.png)
-
-
-[def]: /scrennshots/importeddevice.png
